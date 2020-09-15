@@ -1,0 +1,2 @@
+DATA_COLUMN_NAME = b'7_2009'
+ALLOWED_EXTENSIONS = ['', '.txt', '.csv']
